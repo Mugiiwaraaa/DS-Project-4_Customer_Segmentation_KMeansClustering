@@ -2,7 +2,7 @@
 #### Problem Statement <br />
 You want to understand the customer's spending behaviour and group them so that more critical insights can be given to marketing team which will help them plan the strategy accordingly.
 
-* I approached this problem statement by designing a model that uses certain customer data and groups them accordingly.
+* I approached this problem statement by designing a model that uses certain customer data to group them accordingly.
 * Dataset - Fetched the data from the Kaggle resource which I have linked below. The Dataset includes various features information about the customer.
 * Model - The major aim of in this project is to group the customers based on their spending pattern using the K-Means clustering algorithm. 
 
