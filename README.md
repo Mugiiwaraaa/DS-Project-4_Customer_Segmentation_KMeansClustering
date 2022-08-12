@@ -58,5 +58,5 @@ This helps us a create a beautiful visualization of the clusters. This makes it 
 
 ![](Customer_Groups.png "Customer Groups")
 
-#### From this amazing visualization we can make some bussiness insights and assist market strategists. ####
+#### From this amazing visualization we can make some bussiness insights and assist the market strategists. ####
 #### One example could be that as we can see the spending pattern of these groups of customers according to their annual income, the bussiness can come up with logical offers/membership cards for each group. ####
